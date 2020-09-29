@@ -34,4 +34,4 @@
 
 
 
-![img](/home/cpyu/Desktop/神经网络与深度学习/README.assets/88x31.png) **CC BY-NC-SA 署名-非商业性使用-相同方式共享**
+![img](README.assets/88x31-1601382493341.png) **CC BY-NC-SA 署名-非商业性使用-相同方式共享**
