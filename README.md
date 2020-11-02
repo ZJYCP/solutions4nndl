@@ -18,7 +18,7 @@
 | 第2章 机器学习概述         | [机器学习概述](./第2章-机器学习概述/第2章.md) | [机器学习概述html](https://zjycp.github.io/solutions4nndl/第2章-机器学习概述/第2章.html) |
 | 第3章 线性模型             | [线性模型](./第3章-线性模型/第3章.md)         | [线性模型html](https://zjycp.github.io/solutions4nndl/第3章-线性模型/第3章.html) |
 | 第4章 前馈神经网络         | [前馈神经网络](./第4章-前馈神经网络/第4章.md) | [前馈神经网络html](https://zjycp.github.io/solutions4nndl/第4章-前馈神经网络/第4章.html) |
-| 第5章 卷积神经网络         |                                               |                                                              |
+| 第5章 卷积神经网络         | [卷积神经网络](./第5章-卷积神经网络/第5章.md) | [卷积神经网络html](https://zjycp.github.io/solutions4nndl/第5章-卷积神经网络/第5章.html) |
 | 第6章 循环神经网络         |                                               |                                                              |
 | 第7章 网络优化与正则化     |                                               |                                                              |
 | 第8章 注意力机制与外部记忆 |                                               |                                                              |
